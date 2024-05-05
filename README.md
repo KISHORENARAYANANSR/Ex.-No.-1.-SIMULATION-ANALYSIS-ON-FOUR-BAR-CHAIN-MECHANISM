@@ -18,7 +18,7 @@
 ###  ●	Dependencies: Microsoft .Net 2.0 framework
 ###  ●	Mini Drafter.
 ###  ●	Geometry instruments.
-
+ 
 ## PROCEDURE:
 ###   1. Draw a horizontal line AD of length 120 mm. 
 ###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
